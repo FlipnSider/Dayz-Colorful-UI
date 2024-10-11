@@ -1,0 +1,19 @@
+{
+    "Departments": [{
+        "DepartmentName": "Colorful-UI",
+        "Sections": [
+            {
+                "SectionName": "UX/UI Designer",
+                "SectionLines": ["DayZ n' Chill"]
+            },
+            {
+                "SectionName": "Audio Contributions, Testing, and QA",
+                "SectionLines": ["BigDeano"]
+            },
+            {
+                "SectionName": "Code Review, Bug Fixing, and QA",
+                "SectionLines": ["Lothsun"]
+            }
+        ]
+    }]
+}
